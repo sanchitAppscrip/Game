@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/CustomViewsTutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/TaskManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/delby_merchnat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/halto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/hotelServices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/jogiwork_partner_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/kkbits_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/lyfe_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/lyfe_vendor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/material-components-android-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/stn_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/stn_merchant_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/stn_rider_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/vegefied_experience_provider_android" vcs="Git" />
+  </component>
+</project>
